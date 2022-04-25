@@ -1,0 +1,11 @@
+:root {
+	--footer-height: 60px;
+	--logo-height: 8rem;
+}
+
+*, *::after, *::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Nanum Gothic', sans-serif;
+}
